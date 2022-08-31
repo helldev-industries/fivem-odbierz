@@ -10,9 +10,11 @@ Download https://github.com/helldev-industries/fivem-phantum and install it
 
 Add `RegisterPhantumResource('phant_odbierz')` to `.\phantum\resources.lua` if not exists
 
-## INSTALLING SQL
+## ~~INSTALLING SQL~~
 
-put `.\sql\sql.sql` in your database
+~~put `.\sql\sql.sql` in your database~~
+
+Deprecated
 
 ## CONFIG
 
