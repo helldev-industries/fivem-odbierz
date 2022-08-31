@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS phant_odbierz (`identifier` VARCHAR(255), `expires` INT(11));
